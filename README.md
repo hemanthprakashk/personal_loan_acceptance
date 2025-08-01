@@ -7,3 +7,6 @@ The objective of this project is to help the bank convert existing customers int
 Using this dataset, the goal is to:
 - Build a predictive model for loan acceptance
 - Identify important variables that influence a customer’s decision
+
+### **View Notebook**: [Click here to open in NBViewer]
+(https://nbviewer.org/github/hemanthprakashk/personal_loan_acceptance/blob/main/Loan_acceptance_project.ipynb)
