@@ -1,4 +1,4 @@
-# personal_loan_acceptance
+# Personal Loan Acceptance
 This project uses a campaign dataset to build a **Logistic Regression** model that predicts whether an existing customer will accept a personal loan offer. It also identifies the key factors that influence this decision.
 
 ## Objective
