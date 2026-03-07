@@ -9,4 +9,4 @@ Using this dataset, the goal is to:
 - Identify important variables that influence a customer’s decision
 
 ### **View Notebook**: [Click here to open in NBViewer]
-(https://nbviewer.org/github/hemanthprakashk/personal_loan_acceptance/blob/main/Loan_acceptance_project.ipynb)
+(https://nbviewer.org/github/hemanthprakashk/personal_loan_acceptance/blob/main/Loan_acceptance_project.ipynb?flush_cache=true)
